@@ -19,3 +19,14 @@ Predicting the CO2 emissions and total energy consumption of non-residential bui
 - Modeling : RandomForest, XGBRegressor, LinearRegression, SVR, ElasticNet, KNN
 - Evaluation : RMSE, R2, Time
 - Pipeline, GridSearchCV 
+
+# Presentation Feedback from the Evaluator
+- All the expectations are filed, complete, and meet the expectations of the project
+- Good presentation, and explanation of the problem, its interpretation and the avenues of research envisaged.
+- The learner explained very well the cleaning carried out, feature engineering and exploration.
+- Categorical variables have been identified and transformed appropriately
+- Several regression algorithms have been tried consistently, starting from the simplest to the most complex
+- Several tailored metrics were chosen and used to evaluate performance
+- Data was separated by train/test 
+- The final choice of algorithm and hyperparameters are justified
+- Excellent presentation, justification of choices
