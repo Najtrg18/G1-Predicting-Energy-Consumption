@@ -1,7 +1,7 @@
 # G1-Predicting-Energy-Consumption
 
-# Project
-A project of the Data Scientist professional certification with OpenClassRooms
+# Project Overview
+[Project Overview](https://github.com/Najtrg18/G1-Predicting-Energy-Consumption/blob/main/G1_presentation.pdf)
 
 # Data 
 Sourced from: https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
